@@ -3,4 +3,4 @@
 	url = ../PyStepRocker.git
 [submodule "SubD1/submod2"]
 	path = SubD1/submod2
-	url = https://github.com/sdtom/PyStepRocker.git
+	url = ../PyStepRocker.git
