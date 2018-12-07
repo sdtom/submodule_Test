@@ -1,0 +1,6 @@
+[submodule "subm"]
+	path = subm
+	url = ../PyStepRocker.git
+[submodule "SubD1/submod2"]
+	path = SubD1/submod2
+	url = ../PyStepRocker.git
